@@ -1,3 +1,9 @@
+v1.1.1:
+  date: 2015-12-19
+  changes: 
+    - config option added to options to read configuration from specific file.
+    - recursivlye search for '.esformatter' file to read configuration.
+
 v0.1.0:
   date: 2012-11-15
   changes:

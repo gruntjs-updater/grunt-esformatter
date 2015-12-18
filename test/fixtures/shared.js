@@ -1,7 +1,7 @@
 /*
  * grunt-esformatter
  *
- * Copyright (c) 2013 Jörn Zaefferer, contributors
+ * Copyright (c) 2015 Emech En, contributors
  * Licensed under the MIT license.
  */
 

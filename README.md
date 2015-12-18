@@ -130,5 +130,5 @@ esformatter: {
 
 
 ## License
-Copyright Jörn Zaefferer.
+Copyright Emech En.
 Licensed under the MIT license.
