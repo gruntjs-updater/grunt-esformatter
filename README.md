@@ -1,4 +1,4 @@
-# grunt-esformatter [![Build Status](https://travis-ci.org/jzaefferer/grunt-esformatter.svg?branch=master)](https://travis-ci.org/jzaefferer/grunt-esformatter)
+# grunt-esformatter [![Build Status](https://travis-ci.org/emech-en/grunt-esformatter.svg?branch=temp-npm-module)](https://travis-ci.org/emech-en/grunt-esformatter)
 
 Format JavaScript files using [esformatter](https://github.com/millermedeiros/esformatter/).
 
