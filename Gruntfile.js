@@ -34,7 +34,7 @@ module.exports = function(grunt) {
       'tmp/script.js': 'test/fixtures/script.js'
     },
 
-    esformatter: {
+    emechEsformatter: {
       'default-preset': 'tmp/default-preset.js',
       'jquery-preset': {
         options: {
@@ -77,7 +77,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-nodeunit');
 
   // Remove tmp, copy files to format, format them, verify the result
-  grunt.registerTask('test', ['clean', 'copy', 'esformatter', 'nodeunit']);
+  grunt.registerTask('test', ['clean', 'copy', 'emechEsformatter', 'nodeunit']);
 
   grunt.registerTask('default', ['jshint', 'test']);
 
